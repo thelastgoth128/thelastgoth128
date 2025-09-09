@@ -6,7 +6,7 @@
 🧩 Debugging wizard—whether it's linker errors, shader quirks, or skeletal bone transforms  
 🛠 Fluent in C++, GLSL, TypeScript, Python, PHP, and more  
 📸 Creator of Primechase Studios—an optimized portfolio platform for designers  
-🎮 Currently building a C++/OpenGL chess game with realistic lighting 
+🎮 Currently building a C++/OpenGL chess game with realistic lighting <br/>
 🧑‍🤝‍🧑 Open to collaborations in graphics, backend systems, and impactful software for Malawi  
 
 ## 🌐 Socials:
