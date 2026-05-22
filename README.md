@@ -17,12 +17,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year **Computer Science** student at the **University of Malawi** — graduating August 2026
-- 🏗️ **Founding Engineer @ Q2 Corporation** (Michigan, USA) — building simulation & gaming systems for Xbox Game Camp Africa
-- 🏢 **COO & Full-Stack Developer @ iTech360 Systems** — shipping platforms in active daily use across Malawian schools
-- 🤖 Built **AI exam generation engines** trained on the Malawian national curriculum — first of its kind
-- 🎮 Graphics programmer in **C++, OpenGL, GLSL** — simulation, 3D rendering, shader development
-- 🌍 Building software that solves real African problems — healthcare, agriculture, education, finance
+- 🎓 Final-year **Computer Science** student at the **University of Malawi** - graduating August 2026
+- 🏗️ **Founding Engineer @ Q2 Corporation** (Michigan, USA) - building simulation & gaming systems for Xbox Game Camp Africa
+- 🏢 **COO & Full-Stack Developer @ iTech360 Systems** - shipping platforms in active daily use across Malawian schools
+- 🤖 Built **AI exam generation engines** trained on the Malawian national curriculum - first of its kind
+- 🎮 Graphics programmer in **C++, OpenGL, GLSL** - simulation, 3D rendering, shader development
+- 🌍 Building software that solves real African problems - healthcare, agriculture, education, finance
 - 🤝 Open to collaborations in **AI systems, full-stack platforms, graphics & simulation**
 
 ---
@@ -32,7 +32,7 @@
 | Project | Description | Status |
 |--------|-------------|--------|
 | 🎮 **Xbox Game Camp Africa** | Simulation & gaming platform with Q2 Corporation | 🟢 Active |
-| 🔐 **AegisKYC** | Unified KYC platform for Malawian banks — ML, FastAPI, Docker | 🟡 Near Completion |
+| 🔐 **AegisKYC** | Unified KYC platform for Malawian banks - ML, FastAPI, Docker | 🟡 Near Completion |
 | 🌐 **UNIMA Events System** | Student event management with payments & role-based access | 🟡 In Development |
 | ✋ **LingoHands** | ASL ↔ Text/Voice translation engine with 3D avatar pipeline | 🟡 In Development |
 
@@ -44,7 +44,7 @@
 |--------|-------|-------------|------|
 | 🏫 **EduTech360** | Next.js · Flutter · PostgreSQL | School management platform — 8 modules, 4 role portals, offline-first | [edutech360.tech](https://www.edutech360.tech/) |
 | 🛒 **Farm Basket** | NestJS · Next.js · Supabase · PayChangu | Agricultural marketplace connecting Malawian farmers to customers | Deployed |
-| 💊 **MDF Clinic System** | Python · FastAPI · PostgreSQL | Clinical booking & inventory system — 5 weeks, zero post-handover defects | Live |
+| 💊 **MDF Clinic System** | Python · FastAPI · PostgreSQL | Clinical booking & inventory system - 5 weeks, zero post-handover defects | Live |
 | 📱 **Kwacha Digital** | Full-Stack | Online referral & service marketplace | [kwachadigital.vercel.app](https://kwachadigital.vercel.app) |
 | 🎨 **PrimeChase Studios** | React · Vite · NestJS | Portfolio & booking platform for a graphic design studio | [primechase-studios.vercel.app](https://primechase-studios.vercel.app/) |
 | 📊 **EduTech360 BMS** | Full-Stack | Business management system for SME operations | [Live](https://business-management-system-five.vercel.app/) |
@@ -129,7 +129,7 @@
 
 - 🤝 **Collaborations** on AI systems, simulation, full-stack platforms, or impactful African tech
 - 💼 **Remote opportunities** in software engineering, AI integration, or graphics programming
-- 🌍 **Projects** that have real-world impact — especially in emerging markets
+- 🌍 **Projects** that have real-world impact - especially in emerging markets
 
 ---
 
